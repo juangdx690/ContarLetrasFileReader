@@ -40,7 +40,7 @@ public class charCounter {
 
 	@Override
 	public String toString() {
-		return "charCounter [vocals=" + vocals + ", a=" + a + ", e=" + e + ", i=" + i + ", o=" + o + ", u=" + u + "]";
+		return "charCounter [vocales=" + vocals + ", a=" + a + ", e=" + e + ", i=" + i + ", o=" + o + ", u=" + u + "]";
 	}
 
 }
